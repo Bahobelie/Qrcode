@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CNET_V7_API.props" />
+</Project>

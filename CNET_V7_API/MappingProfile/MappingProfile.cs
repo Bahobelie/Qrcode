@@ -1,0 +1,148 @@
+﻿
+using AutoMapper;
+using CNET_V7_Domain.DataModels.AccountingSchema;
+using CNET_V7_Domain.DataModels.ArticleSchema;
+using CNET_V7_Domain.DataModels.CommonSchema;
+using CNET_V7_Domain.DataModels.ConsigneeSchema;
+using CNET_V7_Domain.DataModels.HrmsSchema;
+using CNET_V7_Domain.DataModels.QuestionarySchema;
+using CNET_V7_Domain.DataModels.SecuritySchema;
+using CNET_V7_Domain.DataModels.SettingSchema;
+using CNET_V7_Domain.DataModels.TransactionSchema;
+using CNET_V7_Entities.DataModels;
+
+namespace CNET_V7_API.MappingProfile
+{
+    public class MappingProfile : Profile
+    {
+        public MappingProfile()
+        {
+            CreateMap<Account, AccountDTO>().ReverseMap();
+            CreateMap<AccessMatrix, AccessMatrixDTO>().ReverseMap();
+            CreateMap<Account, AccountDTO>().ReverseMap();
+            CreateMap<AccountMap, AccountMapDTO>().ReverseMap();
+            CreateMap<AcLog, AcLogDTO>().ReverseMap();
+            CreateMap<Activity, ActivityDTO>().ReverseMap();
+            CreateMap<ActivityDefinition, ActivityDefinitionDTO>().ReverseMap();
+            CreateMap<AnswerKey, AnswerKeyDTO>().ReverseMap();
+            CreateMap<AnswerSheet, AnswerSheetDTO>().ReverseMap();
+            CreateMap<Article, ArticleDTO>().ReverseMap();
+            CreateMap<ArticleUser, ArticleUserDTO>().ReverseMap();
+            CreateMap<Attachment, AttachmentDTO>().ReverseMap();
+            CreateMap<AttendanceLog, AttendanceLogDTO>().ReverseMap();
+            CreateMap<BankAccountDetail, BankAccountDetailDTO>().ReverseMap();
+            CreateMap<BeginingBalance, BeginingBalanceDTO>().ReverseMap();
+            CreateMap<BeginingTransaction, BeginingTransactionDTO>().ReverseMap();
+            CreateMap<BlankFill, BlankFillDTO>().ReverseMap();
+            CreateMap<Card, CardDTO>().ReverseMap();
+            CreateMap<Choose, ChooseDTO>().ReverseMap();
+            CreateMap<ClosedRelation, ClosedRelationDTO>().ReverseMap();
+            CreateMap<CloudSync, CloudSyncDTO>().ReverseMap();
+            CreateMap<Cnetlicense, CnetlicenseDTO>().ReverseMap();
+            CreateMap<Cnetmedium, CnetmediumDTO>().ReverseMap();
+            CreateMap<Configuration, ConfigurationDTO>().ReverseMap();
+            CreateMap<Consignee, ConsigneeDTO>().ReverseMap();
+            CreateMap<ConsigneeUnit, ConsigneeUnitDTO>().ReverseMap();
+            CreateMap<ConsigneeUser, ConsigneeUserDTO>().ReverseMap();
+            CreateMap<ControlAccount, ControlAccountDTO>().ReverseMap();
+            CreateMap<ConversionDefinition, ConversionDefinitionDTO>().ReverseMap();
+            CreateMap<Country, CountryDTO>().ReverseMap();
+            CreateMap<Currency, CurrencyDTO>().ReverseMap();
+            CreateMap<CNET_V7_Entities.DataModels.Delegate, DelegateDTO>().ReverseMap();
+            CreateMap<Denomination, DenominationDTO>().ReverseMap();
+            CreateMap<DenominationDetail, DenominationDetailDTO>().ReverseMap();
+            CreateMap<DepreciationRule, DepreciationRuleDTO>().ReverseMap();
+            CreateMap<Device, DeviceDTO>().ReverseMap();
+            CreateMap<DiscountFactor, DiscountFactorDTO>().ReverseMap();
+            CreateMap<Distribution, DistributionDTO>().ReverseMap();
+            CreateMap<EvaluationSheet, EvaluationSheetDTO>().ReverseMap();
+            CreateMap<ExchangeRate, ExchangeRateDTO>().ReverseMap();
+            CreateMap<FieldFormat, FieldFormatDTO>().ReverseMap();
+            CreateMap<Functionality, FunctionalityDTO>().ReverseMap();
+            CreateMap<GslacctRequirement, GslacctRequirementDTO>().ReverseMap();
+            CreateMap<Gsltax, GsltaxDTO>().ReverseMap();
+            CreateMap<Gsluser, GsluserDTO>().ReverseMap();
+            CreateMap<Holiday, HolidayDTO>().ReverseMap();
+            CreateMap<HolidayDefinition, HolidayDefinitionDTO>().ReverseMap();
+            CreateMap<Iddefinition, IddefinitionDTO>().ReverseMap();
+            CreateMap<Identification, IdentificationDTO>().ReverseMap();
+            CreateMap<Idsetting, IdsettingDTO>().ReverseMap();
+            CreateMap<IssuedCard, IssuedCardDTO>().ReverseMap();
+            CreateMap<JournalDetail, JournalDetailDTO>().ReverseMap();
+            CreateMap<Language, LanguageDTO>().ReverseMap();
+            CreateMap<LanguagePreference, LanguagePreferenceDTO>().ReverseMap();
+            CreateMap<LineItem, LineItemDTO>().ReverseMap();
+            CreateMap<LineItemConversion, LineItemConversionDTO>().ReverseMap();
+            CreateMap<LineItemReference, LineItemReferenceDTO>().ReverseMap();
+            CreateMap<LineItemValueFactor, LineItemValueFactorDTO>().ReverseMap();
+            CreateMap<Location, LocationDTO>().ReverseMap();
+            CreateMap<Lookup, LookupDTO>().ReverseMap();
+            CreateMap<MenuDesigner, MenuDesignerDTO>().ReverseMap();
+            CreateMap<Movie, MovieDTO>().ReverseMap();
+            CreateMap<MovieSchedule, MovieScheduleDTO>().ReverseMap();
+            CreateMap<NonCashTransaction, NonCashTransactionDTO>().ReverseMap();
+            CreateMap<ObjectState, ObjectStateDTO>().ReverseMap();
+            CreateMap<ObjectStateDefinition, ObjectStateDefinitionDTO>().ReverseMap();
+            CreateMap<OrderStationMap, OrderStationMapDTO>().ReverseMap();
+            CreateMap<Period, PeriodDTO>().ReverseMap();
+            CreateMap<Preference, PreferenceDTO>().ReverseMap();
+            CreateMap<PreferenceAccess, PreferenceAccessDTO>().ReverseMap();
+            CreateMap<PreferentialValueFactor, PreferentialValueFactorDTO>().ReverseMap();
+            CreateMap<ProgressTaxRate, ProgressTaxRateDTO>().ReverseMap();
+            CreateMap<Question, QuestionDTO>().ReverseMap();
+            CreateMap<QuestionDetail, QuestionDetailDTO>().ReverseMap();
+            CreateMap<QuestionRouter, QuestionRouterDTO>().ReverseMap();
+            CreateMap<CNET_V7_Entities.DataModels.Range, RangeDTO>().ReverseMap();
+            CreateMap<ReconciliationDetail, ReconciliationDetailDTO>().ReverseMap();
+            CreateMap<ReconciliationSummary, ReconciliationSummaryDTO>().ReverseMap();
+            CreateMap<Relation, RelationDTO>().ReverseMap();
+            CreateMap<RelationalState, RelationalStateDTO>().ReverseMap();
+            CreateMap<Report, ReportDTO>().ReverseMap();
+            CreateMap<ReportHistory, ReportHistoryDTO>().ReverseMap();
+            CreateMap<RequiredGsl, RequiredGslDTO>().ReverseMap();
+            CreateMap<RequiredGsldetail, RequiredGsldetailDTO>().ReverseMap();
+            CreateMap<RoleActivity, RoleActivityDTO>().ReverseMap();
+            CreateMap<CNET_V7_Entities.DataModels.Route, RouteDTO>().ReverseMap();
+            CreateMap<RouteAssignment, RouteAssignmentDTO>().ReverseMap();
+            CreateMap<Schedule, ScheduleDTO>().ReverseMap();
+            CreateMap<ScheduleDetail, ScheduleDetailDTO>().ReverseMap();
+            CreateMap<ScheduleHeader, ScheduleHeaderDTO>().ReverseMap();
+            CreateMap<SeasonalMessage, SeasonalMessageDTO>().ReverseMap();
+            CreateMap<SeatArrangement, SeatArrangementDTO>().ReverseMap();
+            CreateMap<SeatTransaction, SeatTransactionDTO>().ReverseMap();
+            CreateMap<SerialDefinition, SerialDefinitionDTO>().ReverseMap();
+            CreateMap<Space, SpaceDTO>().ReverseMap();
+            CreateMap<SpaceDirection, SpaceDirectionDTO>().ReverseMap();
+            CreateMap<Specification, SpecificationDTO>().ReverseMap();
+            CreateMap<StockBalance, StockBalanceDTO>().ReverseMap();
+            CreateMap<StockLevel, StockLevelDTO>().ReverseMap();
+            CreateMap<SubCountry, SubCountryDTO>().ReverseMap();
+            CreateMap<Subtitle, SubtitleDTO>().ReverseMap();
+            CreateMap<SystemConstant, SystemConstantDTO>().ReverseMap();
+            CreateMap<Tax, TaxDTO>().ReverseMap();
+            CreateMap<TaxTransaction, TaxTransactionDTO>().ReverseMap();
+            CreateMap<TermDefinition, TermDefinitionDTO>().ReverseMap();
+            CreateMap<TransactionCurrency, TransactionCurrencyDTO>().ReverseMap();
+            CreateMap<TransactionLimit, TransactionLimitDTO>().ReverseMap();
+            CreateMap<TransactionReference, TransactionReferenceDTO>().ReverseMap();
+            CreateMap<TrialBalance, TrialBalanceDTO>().ReverseMap();
+            CreateMap<User, UserDTO>().ReverseMap();
+            CreateMap<UserRoleMapper, UserRoleMapperDTO>().ReverseMap();
+            CreateMap<Value, ValueDTO>().ReverseMap();
+            CreateMap<ValueChangeLog, ValueChangeLogDTO>().ReverseMap();
+            CreateMap<ValueFactor, ValueFactorDTO>().ReverseMap();
+            CreateMap<ValueFactorDefinition, ValueFactorDefinitionDTO>().ReverseMap();
+            CreateMap<ValueFactorSetup, ValueFactorSetupDTO>().ReverseMap();
+            CreateMap<Voucher, VoucherDTO>().ReverseMap();
+            CreateMap<VoucherAccount, VoucherAccountDTO>().ReverseMap();
+            CreateMap<VoucherConsigneeList, VoucherConsigneeListDTO>().ReverseMap();
+            CreateMap<VoucherExtension, VoucherExtensionDTO>().ReverseMap();
+            CreateMap<VoucherLookupList, VoucherLookupListDTO>().ReverseMap();
+            CreateMap<VoucherStoreMapping, VoucherStoreMappingDTO>().ReverseMap();
+            CreateMap<VoucherTerm, VoucherTermDTO>().ReverseMap();
+            CreateMap<WriteUp, WriteUpDTO>().ReverseMap();
+
+        }
+    }
+}
+

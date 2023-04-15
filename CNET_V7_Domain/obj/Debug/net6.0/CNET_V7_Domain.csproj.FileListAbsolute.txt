@@ -1,0 +1,36 @@
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\bin\Debug\net6.0\CNET_V7_Domain.deps.json
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\bin\Debug\net6.0\CNET_V7_Domain.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\bin\Debug\net6.0\CNET_V7_Domain.pdb
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.csproj.AssemblyReference.cache
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.AssemblyInfoInputs.cache
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.AssemblyInfo.cs
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.csproj.CoreCompileInputs.cache
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\obj\Debug\net6.0\refint\CNET_V7_Domain.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.pdb
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Domain\obj\Debug\net6.0\ref\CNET_V7_Domain.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\bin\Debug\net6.0\CNET_V7_Domain.deps.json
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\bin\Debug\net6.0\CNET_V7_Domain.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\bin\Debug\net6.0\CNET_V7_Domain.pdb
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.csproj.AssemblyReference.cache
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.AssemblyInfoInputs.cache
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.AssemblyInfo.cs
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.csproj.CoreCompileInputs.cache
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\obj\Debug\net6.0\refint\CNET_V7_Domain.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.pdb
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Domain\obj\Debug\net6.0\ref\CNET_V7_Domain.dll
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\bin\Debug\net6.0\CNET_V7_Domain.deps.json
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\bin\Debug\net6.0\CNET_V7_Domain.dll
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\bin\Debug\net6.0\CNET_V7_Domain.pdb
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.csproj.AssemblyReference.cache
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.AssemblyInfoInputs.cache
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.AssemblyInfo.cs
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.csproj.CoreCompileInputs.cache
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.dll
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\obj\Debug\net6.0\refint\CNET_V7_Domain.dll
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\obj\Debug\net6.0\CNET_V7_Domain.pdb
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Domain\obj\Debug\net6.0\ref\CNET_V7_Domain.dll

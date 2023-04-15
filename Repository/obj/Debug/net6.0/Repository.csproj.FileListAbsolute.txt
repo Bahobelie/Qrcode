@@ -1,0 +1,17 @@
+C:\Users\biniyam.teshome\Source\Repos\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\biniyam.teshome\Source\Repos\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\biniyam.teshome\Source\Repos\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\biniyam.teshome\Source\Repos\Repository\bin\Debug\net6.0\Entities.dll
+C:\Users\biniyam.teshome\Source\Repos\Repository\bin\Debug\net6.0\Entities.pdb
+C:\Users\biniyam.teshome\Source\Repos\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\biniyam.teshome\Source\Repos\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biniyam.teshome\Source\Repos\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\biniyam.teshome\Source\Repos\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\biniyam.teshome\Source\Repos\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\biniyam.teshome\Source\Repos\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\biniyam.teshome\Source\Repos\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\biniyam.teshome\Source\Repos\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\biniyam.teshome\Source\Repos\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\biniyam.teshome\Source\Repos\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\biniyam.teshome\Source\Repos\Repository\bin\Debug\net6.0\Contracts.dll
+C:\Users\biniyam.teshome\Source\Repos\Repository\bin\Debug\net6.0\Contracts.pdb

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CNET_V7_Domain\CNET_V7_Domain.csproj" />
+    <ProjectReference Include="..\CNET_V7_Entities\CNET_V7_Entities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,24 @@
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\bin\Debug\net6.0\CNET_V7_Api_Routes.deps.json
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\bin\Debug\net6.0\CNET_V7_Api_Routes.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\bin\Debug\net6.0\CNET_V7_Api_Routes.pdb
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.csproj.AssemblyReference.cache
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.AssemblyInfoInputs.cache
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.AssemblyInfo.cs
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.csproj.CoreCompileInputs.cache
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\obj\Debug\net6.0\refint\CNET_V7_Api_Routes.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.pdb
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Api_Routes\obj\Debug\net6.0\ref\CNET_V7_Api_Routes.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\bin\Debug\net6.0\CNET_V7_Api_Routes.deps.json
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\bin\Debug\net6.0\CNET_V7_Api_Routes.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\bin\Debug\net6.0\CNET_V7_Api_Routes.pdb
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.csproj.AssemblyReference.cache
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.AssemblyInfoInputs.cache
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.AssemblyInfo.cs
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.csproj.CoreCompileInputs.cache
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\obj\Debug\net6.0\refint\CNET_V7_Api_Routes.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\obj\Debug\net6.0\CNET_V7_Api_Routes.pdb
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Api_Routes\obj\Debug\net6.0\ref\CNET_V7_Api_Routes.dll

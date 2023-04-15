@@ -1,0 +1,51 @@
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Service.Contracts.deps.json
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Service.Contracts.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Service.Contracts.pdb
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Domain.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Entities.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Domain.pdb
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Entities.pdb
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.AssemblyInfo.cs
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.csproj.CopyComplete
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\obj\Debug\net6.0\refint\CNET_V7_Service.Contracts.dll
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.pdb
+C:\Users\biniyam.teshome\Source\Repos\CNET_V7_Service.Contracts\obj\Debug\net6.0\ref\CNET_V7_Service.Contracts.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Service.Contracts.deps.json
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Service.Contracts.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Service.Contracts.pdb
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Domain.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Entities.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Domain.pdb
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Entities.pdb
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.AssemblyInfo.cs
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.csproj.CopyComplete
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\obj\Debug\net6.0\refint\CNET_V7_Service.Contracts.dll
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.pdb
+C:\Users\mahto\OneDrive\Documents\MAIN LAB\V7\CNET_V7_Service.Contracts\obj\Debug\net6.0\ref\CNET_V7_Service.Contracts.dll
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Service.Contracts.deps.json
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Service.Contracts.dll
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Service.Contracts.pdb
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Domain.dll
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Entities.dll
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Domain.pdb
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\bin\Debug\net6.0\CNET_V7_Entities.pdb
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.AssemblyInfo.cs
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.csproj.CopyComplete
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.dll
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\obj\Debug\net6.0\refint\CNET_V7_Service.Contracts.dll
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\obj\Debug\net6.0\CNET_V7_Service.Contracts.pdb
+C:\Users\lamay\Desktop\Cnet_Project\v7\CNET_V7_Service.Contracts\obj\Debug\net6.0\ref\CNET_V7_Service.Contracts.dll
